@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">实验2</string>
+    <string name="app_name">杨凯淇-实验2</string>
     <string name="label_home">主页</string>
     <string name="label_mesg">消息</string>
     <string name="label_friends">好友</string>

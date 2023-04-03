@@ -1,6 +1,5 @@
-package io.yang.example.exp2;
+package org.ykq.demo2;
 
-import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 

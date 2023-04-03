@@ -1,4 +1,4 @@
-package io.yang.example.exp2;
+package io.yang.example.demo2;
 
 import org.junit.Test;
 
