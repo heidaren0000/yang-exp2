@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">实验2</string>
+    <string name="label_home">主页</string>
+    <string name="label_mesg">消息</string>
+    <string name="label_friends">好友</string>
+    <string name="label_plaza">广场</string>
+    <string name="label_more">更多</string>
+</resources>

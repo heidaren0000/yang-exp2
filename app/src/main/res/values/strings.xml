@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">exp2</string>
+    <string name="label_home">Home</string>
+    <string name="label_mesg">Mesg</string>
+    <string name="label_friends">friends</string>
+    <string name="label_plaza">Plaza</string>
+    <string name="label_more">More</string>
+</resources>
